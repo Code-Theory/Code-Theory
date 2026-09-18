@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Daksh 👋
+# Hey, I'm Daksh Gangwar👋
 
 ### I like to build things, optimise them, and secure them.
 
